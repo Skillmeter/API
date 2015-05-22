@@ -6,8 +6,8 @@ Documentation for the Skillmeter API
 * [Authentication](#authentication)
 * [Errors](#errors)
 * [Endpoints](#endpoints)
-	* [Tests](Tests.md)
-	* [Candidates](Candidates.md)
+	* [Test](Test.md)
+	* [Candidate](Candidate.md)
 
 ## Introduction
 
@@ -45,5 +45,5 @@ Possible error codes:
 
 
 ## Endpoints
-* [Tests](Tests.md)
-* [Candidates](Candidates.md)
+* [Test](Test.md)
+* [Candidate](Candidate.md)
