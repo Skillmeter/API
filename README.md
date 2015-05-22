@@ -5,8 +5,8 @@
 * [Authentication](#authentication)
 * [Errors](#errors)
 * [Endpoints](#endpoints)
-	* [Test](Test.md)
-	* [Candidate](Candidate.md)
+	* [Test](Endpoints/Test.md)
+	* [Candidate](Endpoints/Candidate.md)
 
 ## Introduction
 
@@ -44,5 +44,5 @@ Possible error codes:
 
 
 ## Endpoints
-* [Test](Test.md)
-* [Candidate](Candidate.md)
+* [Test](Endpoints/Test.md)
+* [Candidate](Endpoints/Candidate.md)
