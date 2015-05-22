@@ -1,7 +1,7 @@
-Tests
+Test
 ====
 
-Tests represent the created test on Skillmeter. 
+A test represent the test entity created on Skillmeter. 
 
 * [List Tests](#list-tests)
 * [Fetch a Test](#fetch-a-test)
