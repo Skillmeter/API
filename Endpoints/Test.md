@@ -12,9 +12,7 @@ A test represent the test entity created on Skillmeter.
 
 #### Response
 
-```
 Status: 200 OK
-```
 
 ```json
 [
