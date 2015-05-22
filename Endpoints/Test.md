@@ -17,8 +17,7 @@ Status: 200 OK
 ```
 
 ```json
-{
-    [
+[
         ...,
         {
 		  "TestId": 1,
@@ -33,7 +32,6 @@ Status: 200 OK
         },
         ...
     ]
-}
 ```
 
 
@@ -47,7 +45,6 @@ Status: 200 OK
 
 ```json
 {
-  {
       "TestId": 2,
       "Name": "testé",
       "Timed": true,
@@ -57,6 +54,5 @@ Status: 200 OK
       "AllowSkip": true,
       "AllowReview": true,
       "PublicUrl": null
-  },
 }
 ```
