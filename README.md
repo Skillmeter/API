@@ -1,5 +1,4 @@
-# api
-Documentation for the Skillmeter API
+# Skillmeter API
 
 ## Table of Contents
 * [Introduction](#introduction)
