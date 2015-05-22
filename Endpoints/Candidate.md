@@ -1,7 +1,7 @@
 Candidate
 ====
 
-A candidate represent the candidate entity created on Skillmeter. 
+A candidate represent a person assigned to take one or more tests on Skillmeter. 
 
 * [List Candidates](#list-candidates)
 * [Creating a Candidate](#creating-a-candidate)
