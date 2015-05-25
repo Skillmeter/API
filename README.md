@@ -28,7 +28,7 @@ Please report any issues or suggestions in the [issues](https://github.com/skill
 
 ## Authentication
 
-The API uses [HTTP Basic Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication) to authenticate users. A valid API key is required for all requests. Also, **all requests must use HTTPS.** Any HTTP requests will be ignored.
+The API uses [HTTP Basic Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication) to authenticate users.  The credentials are the same as the ones on Skillmeter, with username being the email address. Also, **all requests must use HTTPS.** Any HTTP requests will be ignored.
 
 ## Errors
 
