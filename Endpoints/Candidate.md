@@ -20,8 +20,8 @@ A candidate represent a person assigned to take one or more tests on Skillmeter.
 "Last_Name":"Doe",
 "Email": "john-doe@domain.com",
 "Language" : "en",
-"ExternalId" : "111",
-"Tests": [30, 33]
+"ExternalId" : "111",  // optional, in case you want to link it with your local ID
+"Tests": [30, 33] // array of test IDs, in order to associate the candidate with one or more tests
 }
 ```
 
