@@ -16,7 +16,7 @@ A candidate represent a person assigned to take one or more tests on Skillmeter.
 
 ```json
 {
-"First_Name":"John" ,
+"First_Name":"John",
 "Last_Name":"Doe",
 "Email": "john-doe@domain.com",
 "Language" : "en",
@@ -40,21 +40,21 @@ A candidate represent a person assigned to take one or more tests on Skillmeter.
 
 ```json
 {
-"Tests": null
-"CandidateId": 1
-"UserId": 1
-"Email": "aa@bb.com"
-"First_Name": "a"
-"Last_Name": "a"
-"PinCode": "aqfoymwi"
-"TestDate": "2014-10-12T09:58:54.483"
-"TestEndDate": "2014-10-12T09:59:15.043"
-"CreatedDate": "2014-10-12T00:00:00"
-"Passed": true
-"Feedback": true
-"FeedbackLevel": "M"
-"FeedbackText": ""
-"Language": "en"
+"Tests": null,
+"CandidateId": 1,
+"UserId": 1,
+"Email": "aa@bb.com",
+"First_Name": "a",
+"Last_Name": "a",
+"PinCode": "aqfoymwi",
+"TestDate": "2014-10-12T09:58:54.483",
+"TestEndDate": "2014-10-12T09:59:15.043",
+"CreatedDate": "2014-10-12T00:00:00",
+"Passed": true,
+"Feedback": true,
+"FeedbackLevel": "M",
+"FeedbackText": "",
+"Language": "en",
 "ExternalId": null
 }
 ```
