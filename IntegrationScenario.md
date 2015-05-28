@@ -15,4 +15,10 @@ If you want to let Skillmeter send email invites to  candidates each time they a
 
 ## 2. Integrate with Skillmeter
 
+Thanks to the API we expose, you can cover a wide types of integration between your tools/apps and Skillmeter.
+
+The most frequent and simple scenario is to the following:
+- Get the lists of the tests
+- Create the candidate and assign him with one or more tests
+- 
 
