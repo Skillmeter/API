@@ -5,7 +5,7 @@ The process has been designed to be really simple and allow you to set it up qui
 
 ## 1. Configure your Skillmeter account
 ### Personalize your company's test center page
-This is the first step you need to take after you set up your account with Skillmeter.   Personalize your company's test center page with your logo and links to your website and social channels.
+This is the first step you need to take after you set up your account with Skillmeter (https://skillmeter.com).   Personalize your company's test center page with your logo and links to your website and social channels.
 
 ### Create tests
 Then create/set-up one or more tests in the test section.  You have different options to parametrize your tests and you can add a wide variety of question types.
