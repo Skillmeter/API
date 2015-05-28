@@ -20,5 +20,4 @@ Thanks to the API we expose, you can cover a wide types of integration between y
 The most frequent and simple scenario is to the following:
 - Get the lists of the tests
 - Create the candidate and assign him with one or more tests
-- 
 
