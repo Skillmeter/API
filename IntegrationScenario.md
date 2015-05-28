@@ -1,4 +1,4 @@
-# Integration Scenario (WIP)
+# Integration Scenario
 
 This section walks you though a generic integration scenario.
 The process has been designed to be really simple and allow you to set it up quickly.  
@@ -17,7 +17,11 @@ If you want to let Skillmeter send email invites to  candidates each time they a
 
 Thanks to the API we expose, you can cover a wide types of integration between your tools/apps and Skillmeter.
 
-The most frequent and simple scenario is to the following:
-- Get the lists of the tests
-- Create the candidate and assign him with one or more tests
+The most frequent and simple scenario is to the following:  keep staying in your candidate management tool and assign Skillmeter tests from there.  In order to do that, you would need to hack the flow with only 2 steps:
 
+#### Get the lists of available tests from Skillmeter
+Simply fetch the list of tests from the [Test](Endpoints/Test.md) endpoint 
+If you are certain the tests will not be deleted, you can store the Test IDs on your side to avoid calling Skillmeter each type.
+
+#### Assign the test to your candidate
+In order to do that you need to do a post call to the [Candidate](Endpoints/Candidate.md) endpoint and pass all required details.  The candidate will be also created on Skillmeter, the unique PIN code generated and the invite email sent (if notifications are turned on)
