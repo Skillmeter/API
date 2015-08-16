@@ -20,7 +20,7 @@ A candidate represent a person assigned to take one or more tests on Skillmeter.
 "Last_Name":"Doe",
 "Email": "john-doe@domain.com",
 "Language" : "en",
-"ExternalId" : "111",  
+"ExternalId" : "123",  
 "Tests": [30, 33] 
 }
 ```
@@ -43,9 +43,9 @@ A candidate represent a person assigned to take one or more tests on Skillmeter.
 "Tests": null,
 "CandidateId": 1,
 "UserId": 1,
-"Email": "aa@bb.com",
-"First_Name": "a",
-"Last_Name": "a",
+"Email": "john-doe@domain.com",
+"First_Name": "John",
+"Last_Name": "Doe",
 "PinCode": "aqfoymwi",
 "TestDate": "2014-10-12T09:58:54.483",
 "TestEndDate": "2014-10-12T09:59:15.043",
@@ -55,7 +55,7 @@ A candidate represent a person assigned to take one or more tests on Skillmeter.
 "FeedbackLevel": "M",
 "FeedbackText": "",
 "Language": "en",
-"ExternalId": null
+"ExternalId": "123"
 }
 ```
   
