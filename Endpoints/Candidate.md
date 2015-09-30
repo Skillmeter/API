@@ -32,7 +32,8 @@ A candidate represent a person assigned to take one or more tests on Skillmeter.
 
 ### Fetch a Candidate
 
-  GET /candidate
+  GET /candidate/{id}
+  GET /candidate/{externalId}
   
 #### Response
 
