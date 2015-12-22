@@ -1,5 +1,6 @@
 Changelog
 ===
 
-### May 28, 2015
+### December 22, 2015
+Changed Scoring property from bool to int 
 
