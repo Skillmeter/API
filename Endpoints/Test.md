@@ -22,7 +22,7 @@ Status: 200 OK
 		  "Name": "Test 1",
 		  "Timed": true,
 		  "Duration": 20,
-		  "Scored": false,
+		  "Scoring": 0,
 		  "Pass_Score": null,
 		  "AllowSkip": true,
 		  "AllowReview": true,
@@ -31,7 +31,7 @@ Status: 200 OK
         ...
     ]
 ```
-
+All properties are pretty much self explanatory, except Scoring which can be 0 (No scoring), 1 (Completion percentageà or 2 (Assign points to each question)
 
 ### Fetch a Test
 
