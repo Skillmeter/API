@@ -47,7 +47,7 @@ All properties are pretty much self explanatory, except Scoring which can be 0 (
       "Name": "testé",
       "Timed": true,
       "Duration": 20,
-      "Scored": false,
+      "Scoring": 0,
       "Pass_Score": null,
       "AllowSkip": true,
       "AllowReview": true,
