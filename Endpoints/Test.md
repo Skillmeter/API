@@ -20,6 +20,7 @@ Status: 200 OK
         {
 		  "TestId": 1,
 		  "Name": "Test 1",
+		  "Category": "Programming",
 		  "Timed": true,
 		  "Duration": 20,
 		  "Scoring": 0,
@@ -44,7 +45,8 @@ All properties are pretty much self explanatory, except Scoring which can be 0 (
 ```json
 {
       "TestId": 2,
-      "Name": "testé",
+      "Name": "Test 2",
+      "Category": "Programming",
       "Timed": true,
       "Duration": 20,
       "Scoring": 0,
