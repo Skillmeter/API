@@ -5,5 +5,5 @@ Changelog
 Added `Category` property to Test entity
 
 ### December 22, 2015
-Changed Scoring property from bool to int 
+Changed `Scoring` property from bool to int 
 
