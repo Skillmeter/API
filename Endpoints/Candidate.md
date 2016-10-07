@@ -21,7 +21,8 @@ A candidate represent a person assigned to take one or more tests on Skillmeter.
 "Email": "john-doe@domain.com",
 "Language" : "en",
 "ExternalId" : "123",  
-"Tests": [30, 33] 
+"Tests": [30, 33],
+"AllowResume": false,
 }
 ```
 
