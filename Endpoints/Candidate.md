@@ -58,7 +58,8 @@ A candidate represent a person assigned to take one or more tests on Skillmeter.
 "FeedbackLevel": "M",
 "FeedbackText": "",
 "Language": "en",
-"ExternalId": "123"
+"ExternalId": "123",
+"AllowResume": false
 }
 ```
   
