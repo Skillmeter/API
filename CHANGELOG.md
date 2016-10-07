@@ -2,7 +2,7 @@ Changelog
 ===
 
 ### October 10, 2016
-Added AllowResume property to Candidate object to allow configure the candidate to resume or not the test.
+Added `AllowResume` property to Candidate object to allow configure the candidate to resume or not the test.
 
 ### April 13, 2016
 Added support to get the list of public test  besides the ones created & owned by a company. 
