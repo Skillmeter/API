@@ -7,7 +7,7 @@
 * [Endpoints](#endpoints)
 	* [Test](Endpoints/Test.md)
 	* [Candidate](Endpoints/Candidate.md)
-* [Integration scenario] (IntegrationScenario.md)
+* [Integration scenario](IntegrationScenario.md)
 
 ## Introduction
 
