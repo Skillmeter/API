@@ -3,8 +3,8 @@ Test
 
 A test represent the test entity created on Skillmeter. 
 
-* [List Private Tests](#list-public-tests)
-* [List Public Tests](#list-private-tests)
+* [List Private Tests](#list-private-tests)
+* [List Public Tests](#list-public-tests)
 * [Fetch a Test](#fetch-a-test)
 
 ### List Private Tests
