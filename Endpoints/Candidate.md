@@ -22,7 +22,8 @@ A candidate represent a person assigned to take one or more tests on Skillmeter.
 "Language" : "en",
 "ExternalId" : "123",  
 "Tests": [30, 33],
-"AllowResume": false
+"AllowResume": false,
+"Feedback": false
 }
 ```
 
